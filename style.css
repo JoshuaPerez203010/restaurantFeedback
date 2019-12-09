@@ -1,0 +1,21 @@
+body { width: 500px; 
+    margin: 0 auto;
+    height: 500px; 
+    border: 2px solid black;
+    padding: 10px;
+}
+div {
+     width: 400px;height: 450px;overflow: auto;
+}
+.userInput{
+    float: left;
+}
+.responseData{
+    float:right;
+}
+#input {
+     width: 500px; 
+}
+button { 
+    width: 50px; 
+}
